@@ -4,6 +4,7 @@
 
 - [Description](#description)
 - [Access](#access)
+- [Screenshot](#screenshot)
 - [Credits](#credits)
 - [License](#license)
 
