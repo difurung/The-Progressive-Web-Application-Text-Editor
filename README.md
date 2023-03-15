@@ -13,7 +13,7 @@ This application is a progressive web application text editor. This program can 
 
 
 ## Access
-[Deployed Application](insert here)
+[Deployed Application](https://warm-fortress-80521.herokuapp.com/)
 
 [Github Repository](https://github.com/difurung/The-Progressive-Web-Application-Text-Editor)
 
@@ -21,9 +21,9 @@ This application is a progressive web application text editor. This program can 
 
 
 # Screenshot
-![Screenshot 1 of application](insert image)
+![Screenshot of web application](client/src/images/JATE1.png)
 
-![Screenshot 1 of application](insert image)
+![Screenshot of offline application](client/src/images/JATE2.png)
 
 
 ## License
