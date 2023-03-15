@@ -21,8 +21,11 @@ This application is a progressive web application text editor. This program can 
 
 
 # Screenshot
+
+## Screenshot of Web Application
 ![Screenshot of web application](client/src/images/JATE1.png)
 
+## Screenshot of Installed Application
 ![Screenshot of offline application](client/src/images/JATE2.png)
 
 
